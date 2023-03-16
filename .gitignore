@@ -1,0 +1,25 @@
+
+*.h5
+*.pptx
+Data/Raw_Data/SR436/Raw_1355.csv
+Data/Raw_Data/SR436/Raw_1360.csv
+Data/Raw_Data/SR436/Raw_1585.csv
+Data/Raw_Data/SR436/Raw_1590.csv
+Data/Raw_Data/SR436/Raw_1595.csv
+Data/Raw_Data/SR436/Raw_1600.csv
+Data/Raw_Data/SR436/Raw_1605.csv
+Data/Raw_Data/SR436/Raw_1815.csv
+Data/Raw_Data/SR436/Raw_1820.csv
+Data/Raw_Data/SR436/Raw_1835.csv
+Data/Raw_Data/Test/Raw_1230.csv
+Data/Raw_Data/Test/Raw_1240.csv
+Data/Save_models
+venv
+corridor_gru
+Data/split_data
+GIS
+Data/Event Data
+Data/raw_data.csv
+Data/Raw_Data/SR436
+Data/raw_data_SR436_Selected.csv
+shampoo-sales.csv
